@@ -1,0 +1,233 @@
+body{
+    background: white;
+}
+h1{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-size: 30px;
+    font-family: Helvetica;
+    margin-bottom: 0px;
+    color: rgb(90, 89, 89);
+
+}
+h2{
+    position: relative;
+    top: 10px;
+    left: 15px;
+    font-size: 17px;
+    font-family: 'Lucida Sans Regular';
+    color: rgba(128, 128, 128, 0.89);
+
+}
+.caja1{
+    background: #D4E6F1;
+    display:inline-block;
+    position: absolute;
+    height: 130px;
+    width: 270px;
+    top: 170px;
+    left: 90px;
+    border-radius: 25px;
+}
+.btn1{
+    background: #D4E6F1;
+    padding: 50px;
+    border: none;
+    border-radius: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+    align-items: left;
+    padding-left: 5px;
+}
+.caja2{
+    background: #EDBB99;
+    display:inline-block;
+    position: absolute;
+    height: 130px;
+    width: 270px;
+    top: 170px;
+    left: 430px;
+    border-radius: 25px;
+}
+.btn2{
+    background: #EDBB99;
+    padding: 50px;
+    border: none;
+    border-radius: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+    align-items: left;
+    padding-left: 5px;
+}
+.caja3{
+    background: #F5B7B1;
+    display:inline-block;
+    position: absolute;
+    height: 130px;
+    width: 270px;
+    top: 170px;
+    left: 780px;
+    border-radius: 25px;
+}
+.btn3{
+    background: #F5B7B1;
+    padding: 50px;
+    border: none;
+    border-radius: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+    align-items: left;
+    padding-left: 5px;
+}
+.caja4{
+    background: #D7BDE2;
+    display:inline-block;
+    position: absolute;
+    height: 130px;
+    width: 270px;
+    top: 340px;
+    left: 90px;
+    border-radius: 25px;
+}
+.btn4{
+    background: #D7BDE2;
+    padding: 50px;
+    border: none;
+    border-radius: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+    align-items: left;
+    padding-left: 5px;
+}
+.caja5{
+    background: #BFC9CA;
+    display:inline-block;
+    position: absolute;
+    height: 130px;
+    width: 270px;
+    top: 340px;
+    left: 430px;
+    border-radius: 25px;
+}
+.btn5{
+    background: #BFC9CA;
+    padding: 50px;
+    border: none;
+    border-radius: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+    align-items: left;
+    padding-left: 5px;
+}
+.caja6{
+    background: #FCF3CF;
+    display:inline-block;
+    position: absolute;
+    height: 130px;
+    width: 270px;
+    top: 340px;
+    left: 780px;
+    border-radius: 25px;
+}
+.btn6{
+    background: #FCF3CF;
+    padding: 50px;
+    border: none;
+    border-radius: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+    align-items: left;
+    padding-left: 5px;
+}
+.caja7{
+    background: #A9DFBF;
+    display:inline-block;
+    position: absolute;
+    height: 50px;
+    width: 80px;
+    top: 280px;
+    left: 1150px;
+    border-radius: 25px;
+}
+.btn7{
+    background: #A9DFBF;
+    padding: 30px;
+    border: none;
+    border-radius: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+    align-items: left;
+    padding-left: 30px;
+}
+.btn8{
+    background: #b36664;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 14px;
+    color: white;
+    align-items: left;
+    padding-left: 10px;
+    position: absolute;
+    top: 20px;
+    left: 1300px;
+}
+.img1{
+    position: absolute;
+    top: 55px;
+    left: 180px;
+    width: 90px;
+    height: 70px;
+}
+.img2{
+    position: absolute;
+    top: 50px;
+    left: 190px;
+    width: 80px;
+    height: 80px;
+    
+}
+.img3{
+    position: absolute;
+    top: 50px;
+    left: 190px;
+    width: 80px;
+    height: 80px
+}
+.img4{
+    position: absolute;
+    top: 65px;
+    left: 190px;
+    width: 80px;
+    height: 80px
+}
+.img5{
+    position: absolute;
+    top: 55px;
+    left: 190px;
+    width: 80px;
+    height: 80px
+}
+.img6{
+    position: absolute;
+    top: 45px;
+    left: 190px;
+    width: 80px;
+    height: 80px
+}
+.img7{
+    position: absolute;
+    top: 460px;
+    left: 1180px;
+    width: 150px;
+    height: 150px;
+}
